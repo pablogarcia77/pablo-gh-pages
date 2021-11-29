@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/pablogarcia77.github.io/static/css/main.4a2bb933.chunk.css",
-    "main.js": "/pablogarcia77.github.io/static/js/main.fcd5cc0d.chunk.js",
-    "main.js.map": "/pablogarcia77.github.io/static/js/main.fcd5cc0d.chunk.js.map",
-    "runtime-main.js": "/pablogarcia77.github.io/static/js/runtime-main.1222760a.js",
-    "runtime-main.js.map": "/pablogarcia77.github.io/static/js/runtime-main.1222760a.js.map",
-    "static/js/2.7880bd53.chunk.js": "/pablogarcia77.github.io/static/js/2.7880bd53.chunk.js",
-    "static/js/2.7880bd53.chunk.js.map": "/pablogarcia77.github.io/static/js/2.7880bd53.chunk.js.map",
-    "static/js/3.29d64c38.chunk.js": "/pablogarcia77.github.io/static/js/3.29d64c38.chunk.js",
-    "static/js/3.29d64c38.chunk.js.map": "/pablogarcia77.github.io/static/js/3.29d64c38.chunk.js.map",
-    "index.html": "/pablogarcia77.github.io/index.html",
-    "static/css/main.4a2bb933.chunk.css.map": "/pablogarcia77.github.io/static/css/main.4a2bb933.chunk.css.map",
-    "static/js/2.7880bd53.chunk.js.LICENSE.txt": "/pablogarcia77.github.io/static/js/2.7880bd53.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/pablogarcia77.github.io/static/media/notebook.85e0b90d.jpg"
+    "main.css": "/pablo-gh-pages/static/css/main.b1b4f3fd.chunk.css",
+    "main.js": "/pablo-gh-pages/static/js/main.05ce9e6d.chunk.js",
+    "main.js.map": "/pablo-gh-pages/static/js/main.05ce9e6d.chunk.js.map",
+    "runtime-main.js": "/pablo-gh-pages/static/js/runtime-main.e1ab6009.js",
+    "runtime-main.js.map": "/pablo-gh-pages/static/js/runtime-main.e1ab6009.js.map",
+    "static/js/2.7880bd53.chunk.js": "/pablo-gh-pages/static/js/2.7880bd53.chunk.js",
+    "static/js/2.7880bd53.chunk.js.map": "/pablo-gh-pages/static/js/2.7880bd53.chunk.js.map",
+    "static/js/3.29d64c38.chunk.js": "/pablo-gh-pages/static/js/3.29d64c38.chunk.js",
+    "static/js/3.29d64c38.chunk.js.map": "/pablo-gh-pages/static/js/3.29d64c38.chunk.js.map",
+    "index.html": "/pablo-gh-pages/index.html",
+    "static/css/main.b1b4f3fd.chunk.css.map": "/pablo-gh-pages/static/css/main.b1b4f3fd.chunk.css.map",
+    "static/js/2.7880bd53.chunk.js.LICENSE.txt": "/pablo-gh-pages/static/js/2.7880bd53.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/pablo-gh-pages/static/media/notebook.85e0b90d.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1222760a.js",
+    "static/js/runtime-main.e1ab6009.js",
     "static/js/2.7880bd53.chunk.js",
-    "static/css/main.4a2bb933.chunk.css",
-    "static/js/main.fcd5cc0d.chunk.js"
+    "static/css/main.b1b4f3fd.chunk.css",
+    "static/js/main.05ce9e6d.chunk.js"
   ]
 }

@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pablogarcia77.github.io/static/css/main.4a2bb933.chunk.css",
-    "main.js": "/pablogarcia77.github.io/static/js/main.68812ecb.chunk.js",
-    "main.js.map": "/pablogarcia77.github.io/static/js/main.68812ecb.chunk.js.map",
+    "main.js": "/pablogarcia77.github.io/static/js/main.81e77110.chunk.js",
+    "main.js.map": "/pablogarcia77.github.io/static/js/main.81e77110.chunk.js.map",
     "runtime-main.js": "/pablogarcia77.github.io/static/js/runtime-main.1222760a.js",
     "runtime-main.js.map": "/pablogarcia77.github.io/static/js/runtime-main.1222760a.js.map",
     "static/js/2.7880bd53.chunk.js": "/pablogarcia77.github.io/static/js/2.7880bd53.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.1222760a.js",
     "static/js/2.7880bd53.chunk.js",
     "static/css/main.4a2bb933.chunk.css",
-    "static/js/main.68812ecb.chunk.js"
+    "static/js/main.81e77110.chunk.js"
   ]
 }
